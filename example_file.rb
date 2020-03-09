@@ -1,0 +1,6 @@
+puts "Hello password"  
+puts "Hello World"
+print "Hellow World"
+print "Hellow World"
+p "Hello World" 
+p "Hello World"
