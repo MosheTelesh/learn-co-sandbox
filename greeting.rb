@@ -3,5 +3,5 @@ def greeting_a_person(name)
 end
 #greeting_a_person("Maria")
 name= "Maria"
-greetiung_a_person(name)
+greeting_a_person(name)
 
